@@ -1,5 +1,6 @@
 # local raw data files oversize
 data/raw_data_files
+Machine_learning_models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
